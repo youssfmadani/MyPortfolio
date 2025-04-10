@@ -1,0 +1,30 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.others {
+    width: 30%;
+}
+
+
+
+@media screen and (max-width: 768px ){
+    .center {
+        width: 80%;
+    }
+    .others {
+        width: 100%;
+    }
+}
+
+.sk {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 50px;
+}
+
+.bg {
+    background-image: url('../../../assets/1_low.png');
+    background-position: center;
+}

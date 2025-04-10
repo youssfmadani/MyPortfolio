@@ -1,0 +1,49 @@
+.row {
+    overflow-x: hidden !important;
+    width: 100vw !important;
+}
+* {
+    background-color: transparent;
+}
+
+.center {
+    text-align: center;
+}
+p{
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
+
+.sk {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 50px;
+}
+.bg {
+    background-image: url('../../../assets/1_low.png');
+    background-position: center;
+}
+canvas {
+    width: 100%;
+    background-color: transparent !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; /* Set the height of the container to occupy the full viewport height */
+  }
+
+@media screen and (max-width:768px) {
+    canvas {
+        width: 90%;
+    }
+}
+
+
+
