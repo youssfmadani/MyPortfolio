@@ -1,0 +1,45 @@
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+    -webkit-box-shadow: 10px 10px 80px 47px rgba(255,255,255,0.5);
+-moz-box-shadow: 10px 10px 80px 47px rgba(255,255,255,0.5);
+box-shadow: 10px 10px 80px 47px rgba(255,255,255,0.5);
+}
+
+.download {
+    vertical-align: top;
+    color:white;
+}
+
+.dwnldBtn:hover .download {
+    color:black !important;
+    background-color: white;
+    transition: ease-in 100ms;
+}
+
+.sk {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 50px;
+}
+
+@media screen and (max-width: 385px) {
+    .sk {
+        font-size: 30px !important;
+    }
+}
+
+.bg {
+    background-image: url('../../../assets/1_low.png');
+    background-position: center;
+}
+
+.image-cropper img{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;  
+}
