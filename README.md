@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularPortfolio
 
 This is my personal portfolio built in Angular and Three js, Hosted in Firebase.
@@ -13,3 +14,6 @@ https://sanjaykrishna1203.web.app
 =======
 # PortFolio
 >>>>>>> a6af712b7b65ec051159c76f2e769917528b3c99
+=======
+# MyPortfolio
+>>>>>>> d820acdb433f4ba955187d8587262c7b0ab8ecd3
