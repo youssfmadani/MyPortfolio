@@ -1,0 +1,7 @@
+{
+    "nuxt.isNuxtApp": false,
+    "files.associations": {
+        "*.ts": "typescript",
+        "iostream": "cpp"
+    }
+}
